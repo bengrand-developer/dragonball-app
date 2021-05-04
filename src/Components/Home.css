@@ -1,0 +1,33 @@
+.home h1 {
+  font-family: "Saiyan-sans Left Oblique";
+  font-size: 100px;
+  margin-top: 10px;
+  /* background-color: black; */
+}
+
+.home {
+  background-color: #f99b2e;
+  margin: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.first-title {
+  color: #fdef3d;
+}
+
+.second-title {
+  color: #c6361b;
+}
+
+.sangoku-nuage {
+  background-color: black;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  object-fit: cover;
+}
